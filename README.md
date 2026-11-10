@@ -1,4 +1,4 @@
-# Hi, I'm Alejandro Mesa 👋
+# Hi, I'm Alejandro Mesa
 
 **Power BI developer · analytics engineer.** I build semantic models, write a lot of DAX, and spend my time making sure the numbers, and now Copilot's answers, are right.
 
